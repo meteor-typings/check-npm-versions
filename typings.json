@@ -1,0 +1,7 @@
+{
+  "name": "tmeasday:check-npm-versions",
+  "version": "0.3.1",
+  "main": "main.d.ts",
+  "homepage": "https://atmospherejs.com/tmeasday/check-npm-versions",
+  "global": true
+}
